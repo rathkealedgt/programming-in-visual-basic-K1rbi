@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.vb
 C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.pdb
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\bin\Debug\01_Variable.exe.config
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\bin\Debug\01_Variable.exe
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\bin\Debug\01_Variable.pdb
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\bin\Debug\01_Variable.xml
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\obj\Debug\01_Variable.vbprojAssemblyReference.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\obj\Debug\_01_Variable.Resources.resources
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\obj\Debug\01_Variable.vbproj.GenerateResource.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\obj\Debug\01_Variable.vbproj.CoreCompileInputs.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\obj\Debug\01_Variable.exe
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\obj\Debug\01_Variable.xml
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\01_Variable\obj\Debug\01_Variable.pdb
