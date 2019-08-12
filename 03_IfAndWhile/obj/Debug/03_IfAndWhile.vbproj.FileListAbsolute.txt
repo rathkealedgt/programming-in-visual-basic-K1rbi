@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhil
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.pdb
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\bin\Debug\03_IfAndWhile.exe.config
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\bin\Debug\03_IfAndWhile.exe
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\bin\Debug\03_IfAndWhile.pdb
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\bin\Debug\03_IfAndWhile.xml
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbprojAssemblyReference.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\obj\Debug\_03_IfAndWhile.Resources.resources
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbproj.GenerateResource.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbproj.CoreCompileInputs.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\obj\Debug\03_IfAndWhile.exe
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\obj\Debug\03_IfAndWhile.xml
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\03_IfAndWhile\obj\Debug\03_IfAndWhile.pdb
