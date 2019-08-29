@@ -69,7 +69,14 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="Component2.vb" />
+    <Compile Include="Component1.vb" />
+    <Compile Include="Component3.vb" />
+    <Compile Include="component3_v2.vb" />
+    <Compile Include="Component4.vb" />
+    <Compile Include="Component5.vb" />
+    <Compile Include="LuckyUnicornV2.vb" />
+    <Compile Include="LuckyUnicornV1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

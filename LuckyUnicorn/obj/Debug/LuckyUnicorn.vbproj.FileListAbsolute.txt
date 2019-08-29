@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.pdb
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe.config
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\bin\Debug\LuckyUnicorn.pdb
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\bin\Debug\LuckyUnicorn.xml
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbprojAssemblyReference.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\obj\Debug\LuckyUnicorn.Resources.resources
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.GenerateResource.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.CoreCompileInputs.cache
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\obj\Debug\LuckyUnicorn.exe
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\obj\Debug\LuckyUnicorn.xml
+C:\Users\tomka\Documents\GitHub\programming-in-visual-basic-K1rbi\LuckyUnicorn\obj\Debug\LuckyUnicorn.pdb
